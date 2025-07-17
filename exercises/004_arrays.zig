@@ -1,4 +1,4 @@
-// array manioulation basics.
+// array manipulation basics.
 const std = @import("std");
 
 pub fn main() void {
