@@ -1,4 +1,4 @@
-// Signed and unsigned integeres of various lengths in action. 
+// Signed and unsigned integers of various lengths in action. 
 const std = @import("std");
 
 pub fn main() void {
